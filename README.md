@@ -1,5 +1,5 @@
 # Offline Document Assistant
-
+![Tests](https://github.com/CMS999-debug/offline-doc-assistant/actions/workflows/tests.yml/badge.svg)
 A small API that lets you add documents and ask questions about them. It finds the passages that best match your question. The long-term goal is an assistant that runs fully offline, with no internet connection.
 
 **Status:** work in progress (started November 2026). Built with AI assistance, with every change reviewed and tested by me.
